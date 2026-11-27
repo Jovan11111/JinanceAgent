@@ -1,0 +1,1 @@
+-- script for generating a .db file that should be in this folder, so the db file will be root/backend/db/db.db

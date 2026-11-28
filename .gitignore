@@ -1,1 +1,9 @@
 venv/
+__pycache__/
+*.py[cod]
+.env
+backend/db/*.db
+backend/db/images/*
+!backend/db/images/.gitkeep
+backend/db/reports/*
+!backend/db/reports/.gitkeep
